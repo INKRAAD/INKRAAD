@@ -1,88 +1,115 @@
 <!--
   PERFIL DE GITHUB — INKRAAD
-  Este archivo se muestra arriba de github.com/INKRAAD solo si vive en un
-  repositorio público llamado exactamente "INKRAAD".
-
-  Personalización rápida:
-  1. Cambia únicamente el texto entre corchetes [ ] por tu información.
-  2. En "Stack en construcción", conserva solo las insignias que te representen.
-  3. Sustituye los tres enlaces de proyectos cuando tengas repositorios que destacar.
+  Las métricas, trofeos, lenguajes y gráfico de actividad se actualizan solos
+  conforme se hagan públicos nuevos repositorios y contribuciones.
 -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:7C3AED,100:06B6D4&height=220&section=header&text=Sebastian%20Ig&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Marketer&descAlignY=57&descSize=19" alt="Sebastian Ig — Full-Stack Developer y Marketer" width="100%" />
 
   <a href="https://github.com/INKRAAD">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=650&lines=Hola%2C+soy+Sebasti%C3%A1n+Ing+%F0%9F%91%8B;Construyendo%2C+aprendiendo+y+compartiendo;Bienvenido+a+mi+espacio+en+GitHub" alt="Presentación animada de Sebastián Ing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Ideas+claras.+Experiencias+visuales.+Productos+%C3%BAtiles.;Desarrollo+web+%C3%97+UX%2FUI+%C3%97+marketing+digital.;Construyendo+en+p%C3%BAblico%2C+un+proyecto+a+la+vez." alt="Presentación animada" />
   </a>
-
+  <br />
   <br />
 
   <a href="https://github.com/INKRAAD?tab=followers">
-    <img src="https://img.shields.io/github/followers/INKRAAD?label=Seguidores&style=for-the-badge&color=7C3AED&labelColor=18181B" alt="Seguidores de GitHub" />
+    <img src="https://img.shields.io/github/followers/INKRAAD?label=Seguidores&style=for-the-badge&color=7C3AED&labelColor=111827" alt="Seguidores de GitHub" />
   </a>
   <a href="https://github.com/INKRAAD?tab=repositories">
-    <img src="https://img.shields.io/badge/Perfil-GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
+    <img src="https://img.shields.io/badge/Perfil-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=INKRAAD&label=Visitas+al+perfil&color=7C3AED&style=for-the-badge" alt="Visitas al perfil" />
-
+  <img src="https://komarev.com/ghpvc/?username=INKRAAD&label=Visitas+al+perfil&color=06B6D4&style=for-the-badge" alt="Visitas al perfil" />
 </div>
 
-## ✦ Sobre mí
+## ✦ Hola, soy Sebastian
 
 ```ts
 const sebastian = {
-  nombre: "Sebastián Ing",
   alias: "INKRAAD",
-  ubicación: "Colombia 🇨🇴", // cámbialo o elimínalo si no quieres publicarlo
-  enfoque: "Construir proyectos útiles y aprender en público",
-  ahora: "Dando forma a mi portafolio técnico en GitHub",
-  contacto: "[tu-email-profesional]"
+  rol: ["Full-Stack Developer", "Marketer"],
+  base: "Tacna, Perú ↔ Antofagasta, Chile",
+  formación: ["Desarrollo Frontend & Backend", "Licenciatura en Marketing Digital"],
+  misión: "Diseñar y construir productos digitales útiles, claros y memorables.",
+  disponiblePara: ["Freelance", "Nuevas oportunidades", "Colaboraciones"],
 };
 ```
 
-> Este perfil es mi bitácora de aprendizaje, experimentos y proyectos. Me interesan los retos que convierten una idea en algo útil, claro y bien construido.
+Soy desarrollador web con una mirada centrada en la experiencia. Combino desarrollo full-stack, diseño UX/UI y marketing digital para transformar una idea en una solución que se vea bien, funcione bien y conecte con las personas.
 
 <details>
-  <summary><b>🧭 Qué encontrarás aquí</b></summary>
+  <summary><b>🧭 Ahora mismo</b></summary>
   <br />
 
-  - Proyectos personales y experimentos.
-  - Notas sobre herramientas, flujos de trabajo y aprendizajes.
-  - Código en progreso: con contexto, no solo resultados.
-  - Una selección de repositorios que reflejan lo que estoy construyendo.
+  - 🎓 Cursando una licenciatura en Marketing Digital.
+  - 🧩 Fortaleciendo mi portafolio con proyectos web reales.
+  - 🤝 Disponible para oportunidades freelance y retos donde pueda seguir creciendo.
+  - 🔭 Explorando el cruce entre UX/UI, automatización y desarrollo de software.
 </details>
 
-## 🧰 Stack en construcción
+## 🧠 Mi enfoque creativo
+
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🔎 Estrategia"]
+    B --> C["🎨 UX/UI"]
+    C --> D["⌨️ Desarrollo"]
+    D --> E["⚙️ Automatización"]
+    E --> F["📈 Impacto"]
+    style A fill:#7c3aed,stroke:#c4b5fd,color:#fff
+    style B fill:#0f172a,stroke:#38bdf8,color:#fff
+    style C fill:#0f172a,stroke:#f472b6,color:#fff
+    style D fill:#0f172a,stroke:#34d399,color:#fff
+    style E fill:#0f172a,stroke:#facc15,color:#fff
+    style F fill:#06b6d4,stroke:#a5f3fc,color:#06202a
+```
+
+> No me interesa crear por crear: quiero que cada interfaz tenga intención, cada automatización ahorre tiempo y cada proyecto cuente una historia útil.
+
+## 🛠️ Tecnologías que uso
 
 <div align="center">
-
-  <!-- Conserva solo las tecnologías que utilices de verdad. Más iconos no equivale a mejor perfil. -->
-  <img src="https://skillicons.dev/icons?i=git,github,md,html,css,js,ts,nodejs,python,react,tailwind,vscode&theme=dark" alt="Tecnologías y herramientas: Git, GitHub, Markdown, HTML, CSS, JavaScript, TypeScript, Node.js, Python, React, Tailwind y VS Code" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,php,python,mysql,wordpress,git,github&theme=dark&perline=13" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Tailwind CSS, PHP, Python, MySQL, WordPress, Git y GitHub" />
 </div>
 
-<details>
-  <summary><b>Guía de personalización del stack</b></summary>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</div>
+
+## 🌱 En mi radar de aprendizaje
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,nextjs,docker,go,cs&theme=dark&perline=5" alt="Java, Next.js, Docker, Go y C Sharp" />
   <br />
+  <sub>Java · Next.js · Docker · Go · C#</sub>
+</div>
 
-  Edita la lista tras `i=` en el enlace anterior. Por ejemplo: `java,spring,postgres,docker`.
-  Consulta todos los iconos disponibles en [skillicons.dev](https://skillicons.dev).
-
-  Si una tecnología no aparece en tu trabajo real, elimínala. Un perfil selectivo comunica mejor que una lista interminable.
-</details>
-
-## 📊 Actividad en GitHub
+## 📊 Mi universo GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=INKRAAD&show_icons=true&hide_title=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de INKRAAD" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=INKRAAD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de INKRAAD" />
+  <img height="172" src="https://github-readme-stats.vercel.app/api?username=INKRAAD&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de INKRAAD" />
+  <img height="172" src="https://streak-stats.demolab.com/?user=INKRAAD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de INKRAAD" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKRAAD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por INKRAAD" />
+  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKRAAD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por INKRAAD" />
 </div>
 
-<!-- La serpiente se activa cuando añadas el workflow opcional de .github/workflows/snake.yml. -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=INKRAAD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="Trofeos dinámicos de GitHub de INKRAAD" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INKRAAD&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&radius=8" alt="Gráfico de actividad de INKRAAD" width="100%" />
+</div>
+
+<!-- Esta imagen aparecerá tras la primera ejecución del workflow snake.yml. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/github-contribution-grid-snake-dark.svg" />
@@ -91,51 +118,53 @@ const sebastian = {
   </picture>
 </div>
 
-## 🚀 Proyectos para conocerme mejor
+## 🚀 Próximos proyectos
 
 <div align="center">
-  <!-- Sustituye estos tres bloques al crear o publicar proyectos. No enlaces un repositorio vacío. -->
   <a href="https://github.com/INKRAAD?tab=repositories">
-    <img src="https://img.shields.io/badge/01-Pr%C3%B3ximo%20proyecto-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Primer proyecto destacado: pendiente" />
+    <img src="https://img.shields.io/badge/01-Portfolio%20web-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Próximo proyecto: portfolio web" />
   </a>
   <a href="https://github.com/INKRAAD?tab=repositories">
-    <img src="https://img.shields.io/badge/02-Experimento%20en%20progreso-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Segundo proyecto destacado: en progreso" />
+    <img src="https://img.shields.io/badge/02-Automatizaci%C3%B3n-06B6D4?style=for-the-badge&logo=n8n&logoColor=white" alt="Próximo proyecto: automatización" />
   </a>
   <a href="https://github.com/INKRAAD?tab=repositories">
-    <img src="https://img.shields.io/badge/03-Aprendizaje%20documentado-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Tercer proyecto destacado: aprendizaje documentado" />
+    <img src="https://img.shields.io/badge/03-Experimento%20UX%2FUI-F472B6?style=for-the-badge&logo=figma&logoColor=white" alt="Próximo proyecto: experimento UX UI" />
   </a>
 </div>
 
-<!--
-PLANTILLA PARA CUANDO TENGAS UN PROYECTO:
+<br />
 
-<a href="https://github.com/INKRAAD/NOMBRE-DEL-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=INKRAAD&repo=NOMBRE-DEL-REPO&theme=tokyonight&hide_border=true" alt="Nombre del proyecto" />
-</a>
+> Cada repositorio que publique aquí tendrá una explicación clara: problema, proceso, tecnologías y aprendizajes. Así el portafolio crecerá con contexto, no solo con código.
+
+<!--
+  Cuando tengas un proyecto público, reemplaza uno de los badges anteriores por:
+
+  <a href="https://github.com/INKRAAD/NOMBRE-DEL-REPOSITORIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INKRAAD&repo=NOMBRE-DEL-REPOSITORIO&theme=tokyonight&hide_border=true" alt="Nombre del proyecto" />
+  </a>
 -->
 
 ## 🤝 Conectemos
 
 <div align="center">
-
-  <a href="mailto:[tu-email-profesional]">
-    <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo electrónico" />
+  <a href="https://www.linkedin.com/in/sebastian-ig-uruchi-cruz-68b504330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Ig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Sebastian Ig" />
   </a>
-  <!-- Cuando tengas un perfil, elimina el comentario y reemplaza TU_USUARIO.
-  <a href="https://www.linkedin.com/in/TU_USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn" />
+  <a href="https://www.instagram.com/inkraadm/">
+    <img src="https://img.shields.io/badge/Instagram-%40inkraadm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de INKRAAD" />
   </a>
-  -->
-  <a href="https://github.com/INKRAAD">
-    <img src="https://img.shields.io/badge/GitHub-INKRAAD-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de INKRAAD" />
+  <a href="https://www.facebook.com/inkraadgxz">
+    <img src="https://img.shields.io/badge/Facebook-INKRAADGXZ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook de INKRAAD" />
   </a>
-
+  <a href="https://www.tiktok.com/@inkraadgxz">
+    <img src="https://img.shields.io/badge/TikTok-%40inkraadgxz-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok de INKRAAD" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <i>"El progreso se construye un commit a la vez."</i>
+  <i>“La creatividad no es un extra: es parte de cómo resolvemos problemas.”</i>
   <br /><br />
-  <img src="https://img.shields.io/badge/Hecho%20con-%E2%9D%A4%EF%B8%8F%20y%20curiosidad-7C3AED?style=flat-square" alt="Hecho con corazón y curiosidad" />
+  <img src="https://img.shields.io/badge/Creando%20lo%20que%20viene-7C3AED?style=flat-square&logo=rocket&logoColor=white" alt="Creando lo que viene" />
 </div>
