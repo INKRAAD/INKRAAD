@@ -5,8 +5,6 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:7C3AED,100:06B6D4&height=220&section=header&text=Sebastian%20Ig&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Marketer&descAlignY=57&descSize=19" alt="Sebastian Ig — Full-Stack Developer y Marketer" width="100%" />
-
   <a href="https://github.com/INKRAAD">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Ideas+claras.+Experiencias+visuales.+Productos+%C3%BAtiles.;Desarrollo+web+%C3%97+UX%2FUI+%C3%97+marketing+digital.;Construyendo+en+p%C3%BAblico%2C+un+proyecto+a+la+vez." alt="Presentación animada" />
   </a>
@@ -93,30 +91,40 @@ flowchart LR
 ## 📊 Mi universo GitHub
 
 <div align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=INKRAAD&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de INKRAAD" />
-  <img height="172" src="https://streak-stats.demolab.com/?user=INKRAAD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de INKRAAD" />
+  <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/profile-metrics.svg" alt="Métricas de contribuciones, rachas y repositorios de INKRAAD" width="100%" />
+  <br />
+  <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/streak.svg" alt="Racha de contribuciones de INKRAAD" width="58%" />
+  <br />
+  <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/profile-languages.svg" alt="Lenguajes por repositorio público de INKRAAD" width="100%" />
 </div>
 
-<div align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKRAAD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por INKRAAD" />
-</div>
+## 🏆 Gabinete de trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INKRAAD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="Trofeos dinámicos de GitHub de INKRAAD" />
+  <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/profile-trophies.svg" alt="Trofeos dinámicos de experiencia, contribuciones, repositorios y comunidad" width="100%" />
 </div>
 
+<sub>Los trofeos usan únicamente actividad pública y se regeneran todos los días.</sub>
+
+## 🎮 Arcade de contribuciones
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INKRAAD&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&radius=8" alt="Gráfico de actividad de INKRAAD" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/pacman-contribution-graph-dark.svg" alt="Pac-Man recorriendo las contribuciones de INKRAAD" width="100%" />
+  </picture>
 </div>
 
-<!-- Esta imagen aparecerá tras la primera ejecución del workflow snake.yml. -->
-<div align="center">
+<details>
+  <summary><b>🐍 Bonus: modo Snake</b></summary>
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de INKRAAD" />
+    <img src="https://raw.githubusercontent.com/INKRAAD/INKRAAD/output/github-contribution-grid-snake-dark.svg" alt="Snake recorriendo las contribuciones de INKRAAD" width="100%" />
   </picture>
-</div>
+</details>
 
 ## 🚀 Próximos proyectos
 
