@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <linearGradient id="violet" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="236" rx="24" fill="url(#bg)"/>
+  
+  <text x="48" y="30" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="800">INKRAAD · GitHub Pulse</text>
+  <text x="1152" y="30" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">actualizado diariamente</text>
+  
+  <rect x="48" y="44" width="258" height="148" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="48" y="44" width="258" height="6" rx="3" fill="#7c3aed"/>
+  <text x="72" y="84" fill="#8b949e" font-family="Arial, sans-serif" font-size="16" font-weight="700">CONTRIBUCIONES</text>
+  <text x="72" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="42" font-weight="800">13</text>
+  <text x="72" y="168" fill="#7c3aed" font-family="Arial, sans-serif" font-size="15">últimos 365 días</text>
+  
+  <rect x="330" y="44" width="258" height="148" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="330" y="44" width="258" height="6" rx="3" fill="#06b6d4"/>
+  <text x="354" y="84" fill="#8b949e" font-family="Arial, sans-serif" font-size="16" font-weight="700">RACHA ACTUAL</text>
+  <text x="354" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="42" font-weight="800">0</text>
+  <text x="354" y="168" fill="#06b6d4" font-family="Arial, sans-serif" font-size="15">días consecutivos</text>
+  
+  <rect x="612" y="44" width="258" height="148" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="612" y="44" width="258" height="6" rx="3" fill="#f472b6"/>
+  <text x="636" y="84" fill="#8b949e" font-family="Arial, sans-serif" font-size="16" font-weight="700">MEJOR RACHA</text>
+  <text x="636" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="42" font-weight="800">2</text>
+  <text x="636" y="168" fill="#f472b6" font-family="Arial, sans-serif" font-size="15">récord personal</text>
+  
+  <rect x="894" y="44" width="258" height="148" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="894" y="44" width="258" height="6" rx="3" fill="#34d399"/>
+  <text x="918" y="84" fill="#8b949e" font-family="Arial, sans-serif" font-size="16" font-weight="700">REPOS PÚBLICOS</text>
+  <text x="918" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="42" font-weight="800">5</text>
+  <text x="918" y="168" fill="#34d399" font-family="Arial, sans-serif" font-size="15">proyectos visibles</text>
+
+</svg>
