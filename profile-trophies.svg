@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <linearGradient id="violet" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  
+  <text x="42" y="30" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="800">INKRAAD · Trophy Cabinet</text>
+  <text x="1158" y="30" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">logros basados en actividad pública</text>
+  
+    <rect x="42" y="48" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="78" cy="85" r="16" fill="#7c3aed" opacity="0.18"/>
+    <path d="M 72 74 h 12 l -2 17 h -8 z M 68 93 h 20 M 73 97 h 10" stroke="#7c3aed" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="104" y="84" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Experience</text>
+    <text x="66" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">NaN</text>
+    <text x="66" y="160" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14">Growing Developer</text>
+
+    <rect x="332" y="48" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="368" cy="85" r="16" fill="#06b6d4" opacity="0.18"/>
+    <path d="M 362 74 h 12 l -2 17 h -8 z M 358 93 h 20 M 363 97 h 10" stroke="#06b6d4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="394" y="84" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Commits</text>
+    <text x="356" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">8</text>
+    <text x="356" y="160" fill="#06b6d4" font-family="Arial, sans-serif" font-size="14">Contributions</text>
+
+    <rect x="622" y="48" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="658" cy="85" r="16" fill="#34d399" opacity="0.18"/>
+    <path d="M 652 74 h 12 l -2 17 h -8 z M 648 93 h 20 M 653 97 h 10" stroke="#34d399" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="684" y="84" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Repositories</text>
+    <text x="646" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">5</text>
+    <text x="646" y="160" fill="#34d399" font-family="Arial, sans-serif" font-size="14">Public builder</text>
+
+    <rect x="912" y="48" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="948" cy="85" r="16" fill="#facc15" opacity="0.18"/>
+    <path d="M 942 74 h 12 l -2 17 h -8 z M 938 93 h 20 M 943 97 h 10" stroke="#facc15" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="974" y="84" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Stars</text>
+    <text x="936" y="136" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">0</text>
+    <text x="936" y="160" fill="#facc15" font-family="Arial, sans-serif" font-size="14">Community signal</text>
+
+    <rect x="42" y="212" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="78" cy="249" r="16" fill="#f472b6" opacity="0.18"/>
+    <path d="M 72 238 h 12 l -2 17 h -8 z M 68 257 h 20 M 73 261 h 10" stroke="#f472b6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="104" y="248" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Followers</text>
+    <text x="66" y="300" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">0</text>
+    <text x="66" y="324" fill="#f472b6" font-family="Arial, sans-serif" font-size="14">Network</text>
+
+    <rect x="332" y="212" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="368" cy="249" r="16" fill="#fb7185" opacity="0.18"/>
+    <path d="M 362 238 h 12 l -2 17 h -8 z M 358 257 h 20 M 363 261 h 10" stroke="#fb7185" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="394" y="248" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Issues</text>
+    <text x="356" y="300" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">0</text>
+    <text x="356" y="324" fill="#fb7185" font-family="Arial, sans-serif" font-size="14">Problem solver</text>
+
+    <rect x="622" y="212" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="658" cy="249" r="16" fill="#60a5fa" opacity="0.18"/>
+    <path d="M 652 238 h 12 l -2 17 h -8 z M 648 257 h 20 M 653 261 h 10" stroke="#60a5fa" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="684" y="248" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Pull requests</text>
+    <text x="646" y="300" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">0</text>
+    <text x="646" y="324" fill="#60a5fa" font-family="Arial, sans-serif" font-size="14">Collaborator</text>
+
+    <rect x="912" y="212" width="256" height="132" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="948" cy="249" r="16" fill="#a78bfa" opacity="0.18"/>
+    <path d="M 942 238 h 12 l -2 17 h -8 z M 938 257 h 20 M 943 261 h 10" stroke="#a78bfa" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="974" y="248" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16" font-weight="700">Reviews</text>
+    <text x="936" y="300" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="800">0</text>
+    <text x="936" y="324" fill="#a78bfa" font-family="Arial, sans-serif" font-size="14">Quality eye</text>
+
+</svg>
